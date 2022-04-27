@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Kiptoo Addi
 
-<!--
+
 **EmmanuelAddi/EmmanuelAddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I'm a Tech Enthusiast, addicted to my :computer: and eager to learn :books: new technology trends and excel in the area of Innovation.
 My areas of interest are :chart_with_upwards_trend:Mobile App Development, :globe_with_meridians: Web Development  and :Graphics Designing.
@@ -39,6 +39,8 @@ I love adventure & hiking, listening to music :musical_note:, Statistics and Pla
 
 ## 😄: Thanks for checking my ReadMe! Be Blessed
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=EmmanuelAddi&color=blueviolet alt=douglas254/></p>
+
+<!--
 
 Here are some ideas to get you started:
 
