@@ -1,11 +1,9 @@
 ### Hi there 👋 I'm Kiptoo Addi
 
-
-**EmmanuelAddi/EmmanuelAddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I'm a Tech Enthusiast, addicted to my :computer: and eager to learn :books: new technology trends and excel in the area of Innovation.
-My areas of interest are :chart_with_upwards_trend:Mobile App Development, :globe_with_meridians: Web Development  and :Graphics Designing.
+My areas of interest are 📱 Mobile App Development, :globe_with_meridians: Web Development  and 🎨 Graphics Designing.
 
-I love adventure & hiking, listening to music :musical_note:, Statistics and Playing Chess & Football.I currently live in Nairobi, Kenya.
+I love 🥾 adventure & hiking, listening to music :musical_note:, Statistics and ♟️ Playing Chess & Football.I currently live in Nairobi, Kenya.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
