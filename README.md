@@ -1,11 +1,12 @@
 ### Hi there 👋 I'm Kiptoo Addi
 
 I'm a Tech Enthusiast, addicted to my :computer: and eager to learn :books: new technology trends and excel in the area of Innovation.
-My areas of interest are 📱 Mobile App Development, :globe_with_meridians: Web Development, Data Science  and 🎨 Graphics Designing.
+
+My areas of interest are 📱 Mobile App Development, :globe_with_meridians: Web Development, 💹 Data Science  and 🎨 Graphics Designing.
 
 Working to be A Full-Stack Developer 
 
-I love 🥾 adventure & hiking, listening to Music :musical_note:, Statistics, :photo: Photography and ♟️ Playing Chess & Football.I currently live in Nairobi, Kenya.
+I love 🥾 adventure & hiking, listening to Music :musical_note:, 💹 Statistics, 📸 Photography and ♟️ Playing Chess & Football.I currently live in Nairobi, Kenya.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
