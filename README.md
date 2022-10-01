@@ -52,7 +52,7 @@ I Love <br>
 </p>
 
 ## 😄: Thanks for checking my ReadMe! Be Blessed
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=EmmanuelAddi&color=blueviolet alt=douglas254/></p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=EmmanuelAddi&color=blueviolet alt=EmmanuelAddi/></p>
 
 <!--
 
